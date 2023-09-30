@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/miaoxing/banner/compare/v1.0.0...v1.1.0) (2023-09-30)
+
+
+### Features
+
+* **banner, u:** 增加广告（轮播图）管理功能 ([1747d9f](https://github.com/miaoxing/banner/commit/1747d9f6bc7b456bebebab474d787554d23e67f9))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/plugin:** upgrade from `0.13.0` to `0.13.1`
+* **@miaoxing/services:** upgrade from `0.7.5` to `0.8.0`
+* **@miaoxing/admin:** upgrade from `0.11.0` to `0.11.1`
+
 # 1.0.0 (2023-09-21)
 
 
