@@ -12,7 +12,7 @@ return new class () extends BasePage {
     public function patch()
     {
         return UpdateAction::new()
-            ->validate(function (BannerCategoryModel $banner, $req) {
+            ->validate(static function (BannerCategoryModel $banner, $req) {
                 $v = V::defaultOptional()->defaultNotEmpty();
                 $v->setModel($banner);
                 $v->modelColumn('name', '名称')->requiredIfNew()->notModelDup();
