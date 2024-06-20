@@ -16,7 +16,7 @@ return new class () extends BasePage {
                 $v = V::defaultOptional()->defaultNotEmpty();
                 $v->setModel($banner);
                 $v->modelColumn('name', '名称')->requiredIfNew()->notModelDup();
-                $v->modelColumn('code', '标识')->requiredIfNew()->notModelDup();
+                $v->modelColumn('code', '标识')->notModelDup();
                 return $v->check($req);
             })
             ->exec($this);

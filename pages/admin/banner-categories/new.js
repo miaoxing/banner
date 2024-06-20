@@ -15,7 +15,7 @@ const New = () => {
       <Form>
         <FormItem label="名称" name="name" required/>
 
-        <FormItem label="标识" name="code" required/>
+        <FormItem label="标识" name="code"/>
 
         <FormAction/>
       </Form>
