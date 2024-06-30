@@ -1,3 +1,20 @@
+# [1.2.0](https://github.com/miaoxing/banner/compare/v1.1.10...v1.2.0) (2024-06-30)
+
+
+### Features
+
+* **banner:** 允许不填写分类的标识 ([8dabd6f](https://github.com/miaoxing/banner/commit/8dabd6f56120d87f48daf7460122b64d7ef773ae))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/plugin:** upgrade from `0.14.7` to `0.15.0`
+* **@miaoxing/services:** upgrade from `0.9.2` to `0.9.3`
+* **@miaoxing/admin:** upgrade from `0.13.1` to `0.13.2`
+
 ## [1.1.10](https://github.com/miaoxing/banner/compare/v1.1.9...v1.1.10) (2024-05-30)
 
 
