@@ -4,6 +4,7 @@
 import { CListBtn } from '@mxjs/a-clink';
 import { Page, PageActions } from '@mxjs/a-page';
 import { Form, FormItem, FormAction } from '@mxjs/a-form';
+import { Section } from '@mxjs/a-section';
 
 const New = () => {
   return (
@@ -13,9 +14,11 @@ const New = () => {
       </PageActions>
 
       <Form>
-        <FormItem label="名称" name="name" required/>
+        <Section>
+          <FormItem label="名称" name="name" required/>
 
-        <FormItem label="标识" name="code"/>
+          <FormItem label="标识" name="code"/>
+        </Section>
 
         <FormAction/>
       </Form>
