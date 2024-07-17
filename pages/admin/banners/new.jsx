@@ -3,7 +3,7 @@
  */
 import { CListBtn } from '@mxjs/a-clink';
 import { Page, PageActions } from '@mxjs/a-page';
-import { Form, FormAction, FormItem } from '@mxjs/a-form';
+import { Form, FormActions, FormItem } from '@mxjs/a-form';
 import { FormItemUpload, FormItemSort, Select } from '@miaoxing/admin';
 import DateRangePicker from '@mxjs/a-date-range-picker';
 import LinkPicker from '@miaoxing/link-to/components/LinkPicker';
@@ -37,7 +37,7 @@ const New = () => {
           <FormItemSort/>
         </Section>
 
-        <FormAction/>
+        <FormActions/>
       </Form>
     </Page>
   );
