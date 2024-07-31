@@ -1,3 +1,28 @@
+# [1.3.0](https://github.com/miaoxing/banner/compare/v1.2.0...v1.3.0) (2024-07-31)
+
+
+### Features
+
+* **u:** 调整页面内容为卡片视图 ([bd33bbe](https://github.com/miaoxing/banner/commit/bd33bbe8e6ae55f9df9ee22f46e41f410089ad5c))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.15` to `0.4.16`
+* **@mxjs/a-section:** upgrade from `1.0.0` to `1.1.0`
+* **@mxjs/a-clink:** upgrade from `3.0.1` to `3.0.2`
+* **@mxjs/a-date-range-picker:** upgrade from `3.0.2` to `3.0.3`
+* **@mxjs/a-form:** upgrade from `3.0.2` to `4.0.0`
+* **@mxjs/a-page:** upgrade from `3.0.1` to `4.0.0`
+* **@mxjs/a-table:** upgrade from `1.9.0` to `2.0.0`
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+* **@miaoxing/plugin:** upgrade from `0.15.0` to `0.15.1`
+* **@miaoxing/services:** upgrade from `0.9.3` to `0.9.4`
+* **@miaoxing/admin:** upgrade from `0.13.2` to `0.14.0`
+
 # [1.2.0](https://github.com/miaoxing/banner/compare/v1.1.10...v1.2.0) (2024-06-30)
 
 
