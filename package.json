@@ -10,7 +10,7 @@
     "plugins/*"
   ],
   "dependencies": {
-    "antd": "~5.13",
+    "antd": "~5.19",
     "miaoxing": "^0.4.18",
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1",
