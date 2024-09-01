@@ -1,3 +1,29 @@
+# [1.4.0](https://github.com/miaoxing/banner/compare/v1.3.2...v1.4.0) (2024-09-01)
+
+
+### Features
+
+* 插件增加 wei 命令行入口 ([390265e](https://github.com/miaoxing/banner/commit/390265e7ee23df8b72aa636bb5e5d10a96387655))
+* 更新 `antd` 到 `~5.19` ([b8ba54d](https://github.com/miaoxing/banner/commit/b8ba54d89aca91a6eaf1644cee78afecec8242dd))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.18` to `0.4.19`
+* **@mxjs/a-section:** upgrade from `1.1.1` to `1.2.0`
+* **@mxjs/a-clink:** upgrade from `3.0.4` to `3.0.5`
+* **@mxjs/a-date-range-picker:** upgrade from `3.0.5` to `3.1.0`
+* **@mxjs/a-form:** upgrade from `4.0.2` to `4.1.0`
+* **@mxjs/a-page:** upgrade from `4.0.2` to `4.1.0`
+* **@mxjs/a-table:** upgrade from `2.0.2` to `2.1.0`
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+* **@miaoxing/plugin:** upgrade from `0.15.2` to `0.16.0`
+* **@miaoxing/services:** upgrade from `0.9.5` to `0.9.6`
+* **@miaoxing/admin:** upgrade from `0.15.1` to `0.15.2`
+
 ## [1.3.2](https://github.com/miaoxing/banner/compare/v1.3.1...v1.3.2) (2024-08-03)
 
 
