@@ -1,3 +1,20 @@
+## [1.4.1](https://github.com/miaoxing/banner/compare/v1.4.0...v1.4.1) (2024-09-30)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-clink:** upgrade from `3.0.5` to `3.0.6`
+* **@mxjs/a-date-range-picker:** upgrade from `3.1.0` to `3.1.1`
+* **@mxjs/a-form:** upgrade from `4.1.0` to `4.1.1`
+* **@mxjs/a-page:** upgrade from `4.1.0` to `4.2.0`
+* **@mxjs/a-table:** upgrade from `2.1.0` to `2.2.0`
+* **@miaoxing/plugin:** upgrade from `0.16.0` to `0.16.1`
+* **@miaoxing/services:** upgrade from `0.9.6` to `0.9.7`
+* **@miaoxing/admin:** upgrade from `0.15.2` to `0.16.0`
+
 # [1.4.0](https://github.com/miaoxing/banner/compare/v1.3.2...v1.4.0) (2024-09-01)
 
 
