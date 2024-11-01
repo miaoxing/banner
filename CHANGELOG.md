@@ -1,3 +1,25 @@
+# [1.5.0](https://github.com/miaoxing/banner/compare/v1.4.1...v1.5.0) (2024-11-01)
+
+
+### Features
+
+* 增加页面权限 ([b0ada7c](https://github.com/miaoxing/banner/commit/b0ada7c7db6aa090e47e52a235404f7e9849769b))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-clink:** upgrade from `3.0.6` to `3.0.7`
+* **@mxjs/a-date-range-picker:** upgrade from `3.1.1` to `3.1.2`
+* **@mxjs/a-form:** upgrade from `4.1.1` to `5.0.0`
+* **@mxjs/a-page:** upgrade from `4.2.0` to `4.2.1`
+* **@mxjs/a-table:** upgrade from `2.2.0` to `2.2.1`
+* **@miaoxing/plugin:** upgrade from `0.16.1` to `0.17.0`
+* **@miaoxing/services:** upgrade from `0.9.7` to `0.9.8`
+* **@miaoxing/admin:** upgrade from `0.16.0` to `0.16.1`
+
 ## [1.4.1](https://github.com/miaoxing/banner/compare/v1.4.0...v1.4.1) (2024-09-30)
 
 
