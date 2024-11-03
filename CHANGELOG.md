@@ -1,3 +1,13 @@
+## [1.5.1](https://github.com/miaoxing/banner/compare/v1.5.0...v1.5.1) (2024-11-03)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/admin:** upgrade from `0.16.1` to `0.16.2`
+
 # [1.5.0](https://github.com/miaoxing/banner/compare/v1.4.1...v1.5.0) (2024-11-01)
 
 
