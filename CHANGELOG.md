@@ -1,3 +1,28 @@
+## [1.5.3](https://github.com/miaoxing/banner/compare/v1.5.2...v1.5.3) (2024-12-30)
+
+
+### Bug Fixes
+
+* 限制 react 版本低于 19，避免测试失败 ([d2f3abd](https://github.com/miaoxing/banner/commit/d2f3abd3d7dfaf100970815aa61e650ff25e925d))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.19` to `0.4.20`
+* **@mxjs/a-section:** upgrade from `1.2.0` to `1.2.1`
+* **@mxjs/a-clink:** upgrade from `3.0.7` to `3.0.8`
+* **@mxjs/a-date-range-picker:** upgrade from `3.1.3` to `3.1.4`
+* **@mxjs/a-form:** upgrade from `5.1.0` to `5.2.0`
+* **@mxjs/a-page:** upgrade from `4.3.0` to `4.3.1`
+* **@mxjs/a-table:** upgrade from `2.3.0` to `2.4.0`
+* **@miaoxing/dev:** upgrade from `9.2.0` to `9.3.0`
+* **@miaoxing/plugin:** upgrade from `0.17.1` to `0.17.2`
+* **@miaoxing/services:** upgrade from `0.9.9` to `0.9.10`
+* **@miaoxing/admin:** upgrade from `0.16.3` to `0.17.0`
+
 ## [1.5.2](https://github.com/miaoxing/banner/compare/v1.5.1...v1.5.2) (2024-11-30)
 
 
