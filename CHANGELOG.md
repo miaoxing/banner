@@ -1,3 +1,18 @@
+## [1.5.5](https://github.com/miaoxing/banner/compare/v1.5.4...v1.5.5) (2025-02-02)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-date-range-picker:** upgrade from `3.1.5` to `3.1.6`
+* **@mxjs/a-form:** upgrade from `5.2.1` to `5.2.2`
+* **@mxjs/a-table:** upgrade from `2.4.1` to `2.5.0`
+* **@miaoxing/plugin:** upgrade from `0.17.3` to `0.17.4`
+* **@miaoxing/services:** upgrade from `0.9.11` to `0.9.12`
+* **@miaoxing/admin:** upgrade from `0.17.1` to `0.17.2`
+
 ## [1.5.4](https://github.com/miaoxing/banner/compare/v1.5.3...v1.5.4) (2024-12-31)
 
 

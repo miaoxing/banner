@@ -1,6 +1,6 @@
 {
   "name": "@miaoxing/banner",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "private": true,
   "main": "index.js",
   "repository": "git@github.com:miaoxing/banner.git",
@@ -17,10 +17,10 @@
     "react-router": "^6",
     "@mxjs/a-section": "^1.2.2",
     "@mxjs/a-clink": "^3.0.9",
-    "@mxjs/a-date-range-picker": "^3.1.5",
-    "@mxjs/a-form": "^5.2.1",
+    "@mxjs/a-date-range-picker": "^3.1.6",
+    "@mxjs/a-form": "^5.2.2",
     "@mxjs/a-page": "^4.3.2",
-    "@mxjs/a-table": "^2.4.1"
+    "@mxjs/a-table": "^2.5.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^9.3.1"
