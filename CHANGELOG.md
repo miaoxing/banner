@@ -1,3 +1,15 @@
+## [1.5.6](https://github.com/miaoxing/banner/compare/v1.5.5...v1.5.6) (2025-05-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/plugin:** upgrade from `0.17.4` to `0.17.5`
+* **@miaoxing/services:** upgrade from `0.9.12` to `0.9.13`
+* **@miaoxing/admin:** upgrade from `0.17.2` to `0.17.3`
+
 ## [1.5.5](https://github.com/miaoxing/banner/compare/v1.5.4...v1.5.5) (2025-02-02)
 
 
